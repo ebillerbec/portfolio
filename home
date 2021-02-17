@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Emma Billerbeck</title>
+    <link href="resources/portfolio.css" type="text/css" rel="stylesheet">
+</head>
+  
+<body>
+  <div class="navbar">
+  <a class="nav-link" href="#About">About</a>  
+  <a href="#Work">Work</a> 
+  <a href="#Contact">Contact</a>
+</div>
+  <section id="welcome-section">
+  
+  <img src = "https://lh3.googleusercontent.com/2d0iogeN25z64LHU_sRZgKpFAclvwecuT1TPx4aQYlz57bqP3opNNOy1MAFYi5X7Lb3i8fjsqkSY702xXoKPNZKyxX97ZQiXKO7GEHlxXPOZ6q6pd45yyuhC5SN6wV-tKQcqG9Ghtg" width="338" height="315" />
+  
+  <div class="header">Hello, my name is Emma.</div>
+  
+  <div class="sub-head"><i>Front End Developer and Graphic Designer</i></div>
+  </section>
+  
+  <div class="about-section" id="About"><header>A little about me</header>
+    <p>Anyone can design. Anyone can use a computer and come up with some sort of design. However, not everyone can make it look unique. Not everyone can make it stand out. Not everyone can come up with fresh ideas nobody else has dreamt of before. That’s where I come in. I have a passion for coming up with unique ideas and turning them into beautiful and effective designs.</p>  
+<p>I’ve always had an eye for line and color ever since I was a child, and my deep background in painting and the fine arts has helped me to become the creative designer I am today. As a former division one athlete, I know the meaning of dedication and hard work, and I don’t stop working until the job is done. If you’re looking for someone who will work tirelessly for a unique and beatiful product that stands out above the rest, look no further.</p>
+</div>
+    
+  <div class="projects-section" id="Work"><header class="project-head">Here's some of my work</header>
+    
+    <div class="projects-grid">
+      <a
+      href="https://codepen.io/emma-billerbeck/pen/zYrgBpr"
+      target="_blank"
+      class="project project-tile"
+    >
+        <img
+        class="project-image"
+        src="https://lh3.googleusercontent.com/sTyy577FvO4L8BURi0x3CtQrGAgoi_tstJ4FDwNeN3hnUWSGy6YF41FfSMM84Ri3nHp7bdmYwQXNfsWeaCz45WXHRkR9wwfWYPAUdBxT76WPtcLltF1YOyg3tr6-1XQAKp5HIg51aA"
+        alt="project"
+      </img>
+        <p class="project-title">
+        Tribute Page
+      </p>
+    </a>
+      <a
+      href="https://codepen.io/emma-billerbeck/pen/YzwmmPa"
+      target="_blank"
+      class="project project-tile"
+    >
+        <img
+        class="project-image"
+        src="https://lh3.googleusercontent.com/X4-mwuen96LoRnwpvqAmxBQyiMIuDl5qwo64Pi4zqEjjt-VcT8U5PzdLztTm4r7AWJQCznIjh5xgaLOrWaKjq9qGVHkZXPpwpsXZ_bi-CZ-g3BrGTZksMruwMB4LDoTMXlN04J3WFQ"
+        alt="project"
+      </img>
+        <p class="project-title">
+        Survey Form
+      </p>
+    </a>
+      <a
+      href="https://codepen.io/emma-billerbeck/pen/JjXjwQO"
+      target="_blank"
+      class="project project-tile"
+    >
+        <img
+        class="project-image"
+        src="https://lh3.googleusercontent.com/FgBOujv3XXRisgbFHtzIrXW5zmjxkHJNjEb4SSchT_HmmOJ_VGzb3o5PXn9lKCqi9wkvH4b53wjMaUh2u4UN3_dF6LZE8ZFODUdJRBE9eoMqa-Tp-l2BIdks8lR8CS_gkfsYcSniZQ"
+        alt="project"
+      </img>
+        <p class="project-title">
+        Product Landing Page
+      </p>
+    </a>
+    <a
+      href="https://codepen.io/emma-billerbeck/pen/ZEWyNjQ"
+      target="_blank"
+      class="project project-tile"
+    >
+        <img
+        class="project-image"
+        src="https://lh3.googleusercontent.com/09E39OMbXZBPWqYb8fda3NA3P2Y-ndxg5edHL_GkI8TpFXrUrxM_8IMjHoao5aSxdHzaUXdCgZSpKS9UqxC3aJYni5VpoSoVYzyohjZVS8g-SYN47tXyspP2CwAVr7gGdbcd-jsqCA"
+        alt="project"
+      </img>
+        <p class="project-title">
+        <span class="code">
+        Technical Documentation Page
+        <span class="code">
+      </p>
+    </a>
+     </img>
+      </div>
+  </div>
+      
+      <div class="contact-section" id="Contact"><header>Let's work together</header>
+        <div class="foot-subhead"><i>Here's how to contact me</i></div>
+        <div class="contact-links">
+    <a
+      href="https://www.linkedin.com/in/emma-billerbeck-7617a1105/"
+      class="btn contact-details">LinkedIn</a>
+          <a
+href="https://www.behance.net/emmabillerbeck1"
+      class="btn contact-details">Behance</a>
+          <a href="https://github.com/ebillerbec"
+      class="btn contact-details">GitHub</a>
+          
+          <p class="copyright">Copyright Emma Billerbeck, 2020</p>
+        </div>
+</div>
+</body>
+</html>
